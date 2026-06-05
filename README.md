@@ -1,4 +1,4 @@
-# STM32 TFT Display Driver
+# Simple STM32 Oscilloscope (TFT)
 
 一个为STM32微控制器设计的TFT显示屏驱动程序库，用于快速集成TFT液晶显示屏功能。
 
